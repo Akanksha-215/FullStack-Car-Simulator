@@ -25,13 +25,13 @@ A full-stack application for computer vision processing with React frontend and 
 
 ## Team Members
 
-- [Your Name]
-- [Team Member 2]
-- [Team Member 3]
+- Dasari Akanksha
+- B Yogeshwar
+- M Ashok
 
 ## Guide
 
-- [Guide Name]
+- Dr. Kiran Mannem
 
 ## Setup Instructions
 
